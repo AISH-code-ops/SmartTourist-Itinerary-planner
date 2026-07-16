@@ -76,7 +76,29 @@ git clone https://github.com/AISH-code-ops/SmartTourist-Itinerary-planner.git
 ---
 
 ## 📷 Screenshots
+## 📷 Application Screenshots
 
+### 🏠 Home Screen
+
+The home screen allows users to enter their travel details, including destination, number of days, number of travellers, travel type, and budget. It serves as the starting point for generating a personalized travel itinerary.
+
+![Home Screen](screenshots/home.png)
+
+---
+
+### 🌴 Goa Trip Itinerary
+
+This screenshot shows a sample itinerary generated for a **family trip to Goa**. It includes recommended accommodation, a day-wise travel plan, food recommendations, travel tips, and the estimated trip cost.
+
+![Goa Trip](screenshots/goa%20trip.png)
+
+---
+
+### 🏛️ Mysore Trip Itinerary
+
+This screenshot shows a sample itinerary generated for a **couple's trip to Mysore**. It displays suggested places to visit, accommodation recommendations, local food suggestions, travel tips, and the estimated travel cost.
+
+![Mysore Trip](screenshots/mysore%20trip.png)
 
 
 ## 📚 Concepts Demonstrated
