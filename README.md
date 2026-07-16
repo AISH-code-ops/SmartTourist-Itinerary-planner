@@ -130,7 +130,7 @@ This screenshot shows a sample itinerary generated for a **couple's trip to Myso
 
 ## 👩‍💻 Author
 
-**Aish**
+**Aishwarya**
 
 Computer Science Engineering Student
 
